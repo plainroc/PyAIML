@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<meta name="author" content="autogen"/>
+<meta name="language" content="zh"/>
+
+<category>
+<pattern>你懂个屁人生啊</pattern>
+<template>
+我懂得屁
+</template>
+</category>
+
+
+<category>
+<pattern>你懂编程吗</pattern>
+<template>
+懂啊 我会 C Java Python
+</template>
+</category>
+
+</aiml>
